@@ -92,7 +92,7 @@ The **Foodie Life Restaurant Guide** demonstrates the power of combining modern 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Shahad-irl/foodie-life-restaurant-guide.git
+   git clone https://github.com/Shahad-irl/restaurant-guide-app.git
 
 2. **Install Dependencies**  
    Run the following command to install the necessary dependencies:  
